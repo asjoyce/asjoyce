@@ -4,7 +4,7 @@ This is a repository created as part of my GitHub Skills course.
 I'm excited to share my projects and collaborate with the open-source community!
 
 ## About Me
-- GitHub Username: your-username
+- GitHub Username: asjoyce
 - Interests: Web Development, Open Source, and AI.
 
 ## Links
